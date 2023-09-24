@@ -4,7 +4,6 @@
 There are several types of pisctachio in the world and this project is focusing on predicting two types, these are "Kirmizi_Pistachio" and "Siit_Pistachio". The main objective of this project is to help customers and retailers in classifying based on dataset of the pistachio's physical characteristics.
 
 
-
 ## Dataset Overview
 
 | Column | Description |
@@ -26,6 +25,8 @@ There are several types of pisctachio in the world and this project is focusing 
 | `SHAPEFACTOR_3` | Shape factor 3, a geometric descriptor derived from the area and perimeter of the pistachio region |
 | `SHAPEFACTOR_4` | Shape factor 4, another geometric descriptor derived from the area and perimeter of the pistachio region |
 | `y` | The class or category of the pistachio |
+
+![inbox_11592511_9107ea75bea18b095900b48e230bc4ec_2](https://github.com/abisugiri/pistachio-types-prediction-project/assets/137379747/3539d7ac-6162-490e-b0ca-8e4aed612591)
 
 
 ## Dataset Source
