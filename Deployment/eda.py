@@ -48,7 +48,7 @@ def run ():
     sns.heatmap(data_heatmap.corr(),annot=True)
     st.pyplot(fig)
     
-    st.write('\n\n### Kirmizi_Pistachio adalah kelas "0" dan Siit_Pistachio adalah kelas "1"\n\n')
+    st.write('\n\n### Kirmizi_Pistachio is assigned to class "0" dan Siit_Pistachio is assigned to class "1"\n\n')
     
     # Membuat Histogram berdasarkan input User
     st.write('#### Histogram based on input')

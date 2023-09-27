@@ -1,5 +1,5 @@
 ---
-title: Pistachio Type Prediction
+title: Pistachio Types Prediction
 emoji: 💻
 colorFrom: green
 colorTo: blue
